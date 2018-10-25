@@ -1,7 +1,7 @@
 # Bird-Dog-recognition
-Model that is used to classify Bird or Dog from the given image
+Model classify Bird or Dog from the given image
 # Use
-This model can be used for any binary image classification, by changing the dataset, and retraining it again.
+This model can be used for any binary image classification, by changing the dataset, and retraining it.
 # Files:
 - bird-OR-dog recongnition with NUMPY : is a binary classification model of image recognition made with numpy.
 This model uses gradient descent algorithm, to classify images.
