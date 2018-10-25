@@ -12,3 +12,6 @@ This model uses Convolutional Neural Network (CNN). You will see performance dif
 - data_1000 is data set which contains X (input-type) of 1000 different images of bird and dog in csv format
 - label_1000 is its corresponding labels, 0 or 1.
 - test_data and test_label are for test_set
+
+![screenshot 26](https://user-images.githubusercontent.com/37634919/47503138-06bc7a00-d887-11e8-9e07-882fd9f2cdec.png)
+
